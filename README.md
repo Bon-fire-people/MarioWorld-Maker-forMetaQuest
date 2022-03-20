@@ -13,9 +13,9 @@ Meta Quest2 (Oculus Quest2)
 Oculus Touchコントローラで操作します。
 
 ## 利用アセット
-・Oculus Integration Version 37.0
-・Oculus XR Plugin Version 1.10.0
-・Universal RP Version 11.0.0
+・Oculus Integration Version 37.0  
+・Oculus XR Plugin Version 1.10.0  
+・Universal RP Version 11.0.0  
 
 ### メニュー操作
 1. 左手 Xボタン：メニュー表示  
